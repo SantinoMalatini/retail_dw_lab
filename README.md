@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 1 - Santino Malatini
 
 ![Diagrama Entidad Relación](./DER.jpeg)
 
